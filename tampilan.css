@@ -1,0 +1,83 @@
+.navbar {
+    border-radius: 0;
+}
+
+.sidebar {
+    background-color: #f8f9fa;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-bottom: 15px; 
+}
+
+.main-content {
+    padding: 20px;
+}
+
+.main-content h2 {
+    margin-top: 0;
+}
+
+.footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px;
+}
+
+.list-group-item {
+    cursor: pointer; 
+    list-style: none;
+}
+
+.carousel-item img {
+    max-width: 100%;
+    max-height: 400px; 
+    width: auto;
+    height: auto;
+}
+
+.small-image {
+    max-width: 200px;
+    height: auto;
+}
+
+.menu-detail {
+    display: none;
+}
+
+.navbar-brand {
+    color: #fafafa;
+    font-size: 35px;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+
+span {
+    color:  #ffcc33;
+}
+
+nav ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 10px 25px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fafafa;
+    font-weight: bold;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.btn-pesan {
+    margin-bottom: 20px;
+}
